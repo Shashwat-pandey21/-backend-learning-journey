@@ -1,0 +1,17 @@
+Design REST API  -> Support JSON data
+
+
+1. GET/users - HTML Document Render
+2. GET/api/users - List of all users JSON => DONE
+
+3. GET/api/users/1 - Get the user with ID 1
+
+Dynamic Path Parameters
+GET /api/users/:id 
+:id -> Variable | Dynamic
+
+4. POST/api/users - Create new user
+
+5. PATCH/api/user/1 - Edit the user with ID 1
+
+6. DELETE/api/user/1 - Delete the User with ID 1

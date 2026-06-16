@@ -1,0 +1,21 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Shashwat-pandey21/-backend-learning-journey#readme",
+  "bugs": {
+    "url": "https://github.com/Shashwat-pandey21/-backend-learning-journey/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashwat-pandey21/-backend-learning-journey.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
