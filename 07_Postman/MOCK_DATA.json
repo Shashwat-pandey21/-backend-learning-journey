@@ -1,13 +1,5 @@
 [
     {
-        "id": 1,
-        "first_name": "Amandy",
-        "last_name": "Wapol",
-        "email": "awapol0@walmart.com",
-        "gender": "Female",
-        "job_title": "VP Accounting"
-    },
-    {
         "id": 2,
         "first_name": "Pembroke",
         "last_name": "Pemberton",
